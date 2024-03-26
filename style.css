@@ -237,7 +237,13 @@ margin-left: 1.5rem;
 .card{
   margin-left: 5%;
 }
-
+button.read-more-btn {
+  border: 0;
+  background: #fff;
+  padding-top: 16px;
+  font-size: 18px;
+  color: #37a6e9;
+}
 /* AI Solutions area end */
 
 /* our partner area start */
